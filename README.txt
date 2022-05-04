@@ -36,4 +36,4 @@ Javadoc terletak di folder \dist\javadoc. Buka dist\javadoc\index.html untuk mem
 Instructions 
 1.	Unzip File.
 2.	Go to the \dist folder.
-3.	Open the jar file “CIS5371_Project1.jar”.
+3.	Open the jar file "CIS5371_Project1.jar".
